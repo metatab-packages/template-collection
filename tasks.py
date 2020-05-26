@@ -30,5 +30,5 @@ def foreach_tasks(c):
         except UnexpectedExit:
             pass
             
-ns.add_task(foreach_task)
+ns.add_task(foreach_tasks)
 
