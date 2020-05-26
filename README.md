@@ -1,6 +1,9 @@
 # template-collection
 
-A template repo for creating new collections. Fork this repo to create a new collection. 
+A template repo for creating new collections. 
+
+*Don't fork this repo*. Instead, use the green "Use this Template" button in Github. 
+
 
 Collections are composed of this top level directory and source packages that
 are included a git submodules. So, to add a few packages:
